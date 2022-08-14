@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href='/staticFiles/main.css' />
+  </head>
+  <body>
+    <h1>CROP ANOMALY DETECTION</h1>
+    <p>Capstone Project by MIMGD Group AMPBA Batch-15</p>
+ 
+    <form method="POST" enctype="multipart/form-data" action="/">
+        <input type="file" id="myFile" name="uploaded-file" accept=".jpg">
+        <input type="submit" value="Submit">
+    </form>
+  <br>
+  <p style="color:blue;">Choose image file to upload</p>
+  <form action="/show_data" target="_blank">
+        <input type="submit" value="Show Image" />
+    </form>
+  </body>
+</html>
