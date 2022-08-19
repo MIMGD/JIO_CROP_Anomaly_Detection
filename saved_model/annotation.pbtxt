@@ -1,76 +1,52 @@
 item	{
 	id:	1
-	name:	'Maize Grey Leaf Spot'
+	name:	'Grey Leaf Spot'
 }
 item	{
 	id:	2
-	name:	'Cotton Bacterial Blight'
+	name:	'Bacterial Blight'
 }
 item	{
 	id:	3
-	name:	'Grapes Powdery mildew'
+	name:	'Powdery mildew'
 }
 item	{
 	id:	4
-	name:	'Maize Rust'
+	name:	'Rust'
 }
 item	{
 	id:	5
-	name:	'Grapes Downy mildew'
+	name:	'Downy mildew'
 }
 item	{
 	id:	6
-	name:	'Cotton Leaf Hopper'
+	name:	'Leaf Hopper'
 }
 item	{
 	id:	7
-	name:	'Maize Turcicum Leaf blight'
+	name:	'Turcicum Leaf blight'
 }
 item	{
 	id:	8
-	name:	'Maize Fall Army worm'
+	name:	'Fall Army worm'
 }
 item	{
 	id:	9
-	name:	'Cotton Rust'
+	name:	'Brown Plant Hopper'
 }
 item	{
 	id:	10
-	name:	'Cotton Powdery mildew'
+	name:	'Leaf folder'
 }
 item	{
 	id:	11
-	name:	'Rice Brown Plant Hopper'
+	name:	'Aphids'
 }
 item	{
 	id:	12
-	name:	'Cotton leaf folder'
+	name:	'Mealy bug'
 }
 item	{
 	id:	13
-	name:	'Cotton Aphids'
-}
-item	{
-	id:	14
-	name:	'Cotton Mealy bug'
-}
-item	{
-	id:	15
-	name:	'Rice Leaf folder'
-}
-item	{
-	id:	16
-	name:	'Rice Stem borer'
-}
-item	{
-	id:	17
-	name:	'Maize Downy mildew'
-}
-item	{
-	id:	18
-	name:	'Maize Aphids'
-}
-item	{
-	id:	19
-	name:	'Maize Stem Borer'
+	name:	'Stem borer'
 }
